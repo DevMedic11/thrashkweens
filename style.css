@@ -174,7 +174,6 @@ a {
 	width: 99vw;
 	display: grid;
 	grid-template-rows: 1fr 1fr 75%;
-	background-color: #000;
 	overflow: hidden;
 	justify-items: center;
 }
@@ -197,7 +196,6 @@ a {
 }
 
 .contact-links {
-	border: 1px solid red;
 	color: #FFFFFC;
 	background-color: #FF7F11;
 	min-width: 99vw;
