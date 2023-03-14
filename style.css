@@ -1,9 +1,7 @@
-//font-family: 'Blaka', cursive;
-//font-family: 'Oswald', sans-serif;
 
 html {
-	margin: 0 auto;
-	padding: 0 auto;
+	margin: 0;
+	padding: 0;
 	
 }
 
@@ -32,7 +30,7 @@ a {
 }
 
 .nav-links {
-	//border: 1px solid red;
+	
 	display: flex;
 	flex-direction: row;
 	list-style: none;
